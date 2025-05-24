@@ -19,7 +19,7 @@ BrAIn is the first open-source tool to unify classification, segmentation, and d
 | Segmentation                       | ✅    | ✅                                        |
 | Object Detection                   | ✅    | ❌                                        |
 | Brain Organoid Specific            | ✅    | ❌                                        |
-| GUI (No Code Required)             | ✅    | ✅                                        |
+| GUI (No Code Required)             | ✅    | ✅ / Limited                              |
 | Manual Mask Editing                | ✅    | ❌ / Limited                              |
 | Platform Compatibility (Mac/Win)  | ✅    | ⚠️ Varies                                 |
 | Model Import / Export              | ✅    | ❌                                        |
@@ -34,7 +34,8 @@ BrAIn is the first open-source tool to unify classification, segmentation, and d
 ### 🚀 Installation
 
 <pre lang="markdown">
-```# Create and activate conda environment
+```
+# Create and activate conda environment
 conda create -n brain python=3.9
 conda activate brain
 
@@ -79,6 +80,6 @@ We welcome contributions! You can:
  
 ### 🧠 Acknowledgements
 
-Developed by Burak Kahveci
-Supervised by Sinan GUven & Yalın Bastanlar
-Supported by ADEP - DEU (TSA 2023-3026 project) & EuroHPC (EHPC-BEN-2023B03-002)
+* Developed by Burak Kahveci
+* Supervised by Sinan GUven & Yalın Bastanlar
+* Supported by ADEP - DEU (TSA 2023-3026 project) & EuroHPC (EHPC-BEN-2023B03-002)
