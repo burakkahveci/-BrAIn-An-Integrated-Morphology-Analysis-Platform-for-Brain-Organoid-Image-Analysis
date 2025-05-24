@@ -74,6 +74,9 @@ If you use BrAIn in your work, please cite:
 
 Kahveci B., et al. BrAIn: A comprehensive artificial intelligence-based morphology analysis system for brain organoids and neuroscience. (2025)
 
+* **Datasets:**
+[Datasets Link](https://zenodo.org/records/15503283?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTc0ODA5MzM2OCwiZXhwIjoxNzU5MDE3NTk5fQ.eyJpZCI6ImYzMzM2ZDI2LTVjNjktNDk2Yy04YzY5LWQwODViMjgwMWNlNyIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGQwZTY2NGQ3ODU4OTQ5ZjJhMTA5ZjcwZDE0MjMzYiJ9.3DR3CqZN1GgFf1pPGgjvob4B52mDWO4RW-JZk_7Yk2-qN4Zln9dVTN7yEN_6o_Zt4JsVAykiTmKTGAKU-Pkc6w).
+
 ### 🤝 Contributing
 
 We welcome contributions! You can:
