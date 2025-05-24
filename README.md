@@ -1,14 +1,19 @@
 # 🧠 BrAIn: An Integrated Platform for Brain Organoid Image Analysis
 
-Classification • Segmentation • Object Detection – No Code GUI for 2D Organoid Morphology
+* Classification
+* Segmentation
+* Object Detection
+  
+***No Code GUI for Organoid Morphology Analysis***
 
 ### 📌 Overview
 
 BrAIn is the first open-source tool to unify classification, segmentation, and detection tasks for brain organoid imaging. Designed to support both research and diagnostic workflows, BrAIn empowers users with:
-	•	💡 Multi-task analysis from a single interface
-	•	🖼️ Morphological feature extraction: budding, folds, neuroectodermal structures
-	•	🧪 Tested on both synthetic and real datasets
-	•	🖱️ No-code GUI for users with no programming background
+
+* 💡 Multi-task analysis from a single interface
+* 🖼️ Morphological feature extraction: budding, folds, neuroectodermal structures
+* 🧪 Tested on both synthetic and real datasets
+* 🖱️ No-code GUI for users with no programming background
 
 
 ### ✨ Key Features
