@@ -89,5 +89,4 @@ We welcome contributions! You can:
 ### 🧠 Acknowledgements
 
 * Developed by Burak Kahveci
-* Supervised by Sinan GUven & Yalın Bastanlar
 * Supported by ADEP - DEU (TSA 2023-3026 project) & EuroHPC (EHPC-BEN-2023B03-002)
