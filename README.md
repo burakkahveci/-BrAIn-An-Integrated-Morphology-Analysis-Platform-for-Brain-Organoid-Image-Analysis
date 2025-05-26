@@ -45,7 +45,7 @@ conda create -n brain python=3.9
 conda activate brain
 
 # Clone the repo
-git clone https://github.com/yourusername/BrAIn.git
+git clone https://github.com/burakkahveci/-BrAIn-An-Integrated-Morphology-Analysis-Platform-for-Brain-Organoid-Image-Analysis.git
 cd BrAIn
 
 # Install requirements
