@@ -33,7 +33,7 @@ BrAIn is the first open-source tool to unify classification, segmentation, and d
 ### 📷 Sample UI Screenshots
 
 
-<img width="550" alt="image" src="https://github.com/user-attachments/assets/049bf461-9014-45ea-bdfa-970702e49726" />
+<img width="550" alt="image" src="[https://github.com/user-attachments/assets/049bf461-9014-45ea-bdfa-970702e49726](https://github.com/burakkahveci/-BrAIn-An-Integrated-Morphology-Analysis-Platform-for-Brain-Organoid-Image-Analysis/blob/main/Picture1.png)" />
 
 
 ### 🚀 Installation
