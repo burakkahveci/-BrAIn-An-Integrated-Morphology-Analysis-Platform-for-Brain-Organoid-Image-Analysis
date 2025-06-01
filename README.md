@@ -63,10 +63,10 @@ python BrAIn_UI.py
 </pre>
 
 From the GUI:
-	1.	Select input image or directory
-	2.	Choose the task: Classification, Segmentation, or Detection
-	3.	Click “Start” to process and view results
-	4.	Optionally, review or manually edit segmentations
+* Select input image or directory
+* Choose the task: Classification, Segmentation, or Detection
+* Click “Start” to process and view results
+* Optionally, review or edit segmentations
 
 ### 📒 Citation
 
