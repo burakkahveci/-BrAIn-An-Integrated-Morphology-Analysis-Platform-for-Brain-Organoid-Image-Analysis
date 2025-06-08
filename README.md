@@ -59,8 +59,10 @@ pip install -r requirements.txt
 ```
 python BrAIn_UI.py
 	
-```
+```	
 </pre>
+
+[BrAIn Tutorial Video](https://zenodo.org/records/15503283?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTc0ODA5MzM2OCwiZXhwIjoxNzU5MDE3NTk5fQ.eyJpZCI6ImYzMzM2ZDI2LTVjNjktNDk2Yy04YzY5LWQwODViMjgwMWNlNyIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGQwZTY2NGQ3ODU4OTQ5ZjJhMTA5ZjcwZDE0MjMzYiJ9.3DR3CqZN1GgFf1pPGgjvob4B52mDWO4RW-JZk_7Yk2-qN4Zln9dVTN7yEN_6o_Zt4JsVAykiTmKTGAKU-Pkc6w)
 
 From the GUI:
 * Select input image or directory
