@@ -25,7 +25,6 @@ BrAIn is the first open-source tool to unify classification, segmentation, and d
 | Object Detection                   | ✅    | ❌                                        |
 | Brain Organoid Specific            | ✅    | ❌                                        |
 | GUI (No Code Required)             | ✅    | ✅ / Limited                              |
-| Manual Mask Editing                | ✅    | ❌ / Limited                              |
 | Platform Compatibility (Mac/Win)  | ✅    | ⚠️ Varies                                 |
 | Model Import / Export              | ✅    | ❌                                        |
 
